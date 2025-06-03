@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Linux Git Cheatsheet
 
 Command: ls
