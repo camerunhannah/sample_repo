@@ -1,1 +1,1 @@
-That's Good Money
+Good Money
