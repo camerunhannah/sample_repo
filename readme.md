@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Linux Git Cheatsheet
 
 Command: ls
@@ -94,5 +95,3 @@ WSL2 (Windows Subsystem for Linux 2)
 Lets you run a real Linux environment inside Windows, like a fake mini-Linux computer
 Unix Account (in WSL)	
 Your user profile inside Linux — separate from your Windows user
-
-
